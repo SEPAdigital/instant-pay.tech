@@ -1,6 +1,3 @@
-# willzahlen.at
+# instant-pay.website
 
-pay invoices via email forwarding or drag & drop
-
-
-v1.0-rc1
+pay smart
