@@ -1,3 +1,8 @@
-# instant-pay.website
+# Instant-PAY.website
 
-pay smart
+payments. smart as a service. get payed frictionless.
+
+
+# Instant-PAY.tech 🇪🇺
+
+Next-gen real-time A2A payment infrastructure.
